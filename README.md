@@ -7,7 +7,7 @@ TAK-19 Kris Kristofer Burk
 
 TAK-19 Jasper Tambur
 
-TA-20
+TA-20 Terje Volke
 
 TA-21 
 
