@@ -1,0 +1,45 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  min-width: 100%;
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  z-index: 1000;
+}
+/*mobile menu design*/
+.burgermenu {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  gap: 6px;
+  height:40px;
+  width:40px;
+  padding: 20px 30px 0px 0px;
+}
+.bars {
+  background-color: #FFF;
+  height: 6px;
+  width: 40px;
+} 
+/*desktop menu design*/
+.navmenu {
+  height: 40px;
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.navlink {
+  line-height: 40px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #FFF;
+  padding-right: 5px;
+}
+.navlink:visited {
+text-decoration: none;
+}
+.navlink:hover{
+  color: #9e9c9c;
+}

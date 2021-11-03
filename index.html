@@ -5,31 +5,39 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@400;700&display=swap" rel="stylesheet">
     <title>Johnny Depp portfolio page</title>
 </head>
 <body>
     <header>
-        <nav>
-                <div class="burgermenu">
-                    <span class="bars">-</span>
-                    <span class="bars">-</span>
-                    <span class="bars">-</span>
-                </div>
+        <nav class="navbar">
+            <div class="navmenu">
+                <a class="navlink" href="#avaleht">Avaleht</a>
+                <a class="navlink" href="#tutvustus">Tutvustus</a>
+                <a class="navlink" href="#saavutused">Saavutused</a>
+                <a class="navlink" href="#kontakt">Kontakt</a>
             </div>
-                <a class="navlink" href="#">Avaleht</a>
-                <a class="navlink" href="#">Saavutused</a>
-                <a class="navlink" href="#">Kontakt</a>
-                <a class="navlink" href="#">Tutvustus</a>
-            </div>
+            <a href="#">
+              <div class="burgermenu">
+                <span class="bars"></span>
+                <span class="bars"></span>
+                <span class="bars"></span>
+            </div>  
+            </a>
+            
         </nav>
     </header>
-    <main>
-        <section>
-            <img src="images/johnny_depp.jpg" alt="Picture of Johnny Depp">
-            <p>Johnny Depp</p>
-            <p>I'm so cool!</p>
+    <main id="avaleht" class="main">
+        <section class="main_home">
+            <img class="home_img" min-width="400px" src="images/johnny_depp.jpg" alt="Picture of Johnny Depp">
+            <h1 class="home_h1">Johnny Depp</h1>
+            <p class="home_p">" I'm so cool! "</p>
+            
+            
         </section>
-        <section>
+        <section id="tutvustus" class="main_about">
             <h2>Tutvustus</h2>
             <ul>
                 <li></li>
@@ -37,7 +45,7 @@
                 <li></li>
             </ul>
         </section>
-        <section>
+        <section id="saavutused"class="main_">
             <h2>Saavutused</h2>
             <ul>
                 <li></li>
@@ -48,7 +56,7 @@
                 <li></li>
             </ul>
         </section>
-        <section>
+        <section id="kontakt">
             <h2>Kontakt</h2>
             <ul>
                 <li>
