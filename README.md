@@ -4,11 +4,17 @@ portfoolioprojekt
 Tiimi liikmed
 -------------
 TAK-19 Kris Kristofer Burk
-TAK-19 Jasper Tambur
-TA-20  x
 
-TA-21  x
-TA-21  x
-TAK-21 x
-TAK-21 x
-TAK-20 x
+TAK-19 Jasper Tambur
+
+TA-20
+
+TA-21 
+
+TA-21 
+
+TAK-21
+
+TAK-21
+
+TAK-20
