@@ -9,13 +9,13 @@ TAK-19 Jasper Tambur
 
 TA-20 Terje Volke
 
-TA-21 
+TA-21 Oliver Õunaid
 
-TA-21 
+TA-21 Kätlin Maidle
 
-TAK-21
+TAK-21 Lisbeth Raielo
 
-TAK-21
+TAK-21 Timo Loho
 
 TAK-20 Rihard Pärgma
 
