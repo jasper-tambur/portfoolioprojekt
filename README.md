@@ -30,6 +30,11 @@ Kontakt - üldkontaktandmed
 
 Veebileht peaks olema kahes vaates: mobile-view ja desktop-view
 
+# Ülesande jaotused
+figmasse disainireeglid ja kujundus nende järgi - Kätlin ja Timo
+
+kõik nooremad otsivad Johnny Deppi kohta kaks sündmust-filmi
+
 
 
 
