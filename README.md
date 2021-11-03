@@ -17,4 +17,4 @@ TAK-21
 
 TAK-21
 
-TAK-20
+TAK-20 Rihard Pärgma
