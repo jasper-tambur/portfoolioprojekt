@@ -35,6 +35,8 @@ figmasse disainireeglid ja kujundus nende järgi - Kätlin ja Timo
 
 kõik nooremad otsivad Johnny Deppi kohta kaks sündmust-filmi
 
+# Figma
+https://www.figma.com/file/6o8WRpxdepAANAXzUefgtb/Depp?node-id=3%3A2
 
 
 
