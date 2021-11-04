@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@400;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <title>Johnny Depp portfolio page</title>
 </head>
 <body>
@@ -82,19 +82,31 @@
                 <li></li>
             </ul>
         </section>
-        <section id="contact">
+        <section id="contact" class="contact">
             <h2>Kontakt</h2>
-            <!-- <ul>
-                <li>
-                    Email: <a href="mailto:johnny.depp@gmail.com">johnny.depp@gmail.com</a>
-                </li>
-                <li>
-                    Telefon: <a href="tel:13371337">13371337</a>
-                </li>
-                <li>
-                    <address>Kuressaare Ametikool</address>
-                </li>
-            </ul> -->
+            <p>Küsimuste korral kirjuta mulle!</p><br>
+            <div class="form">
+                <div>
+                    <span>Nimi: </span><br><br>
+                    <span>E-mail: </span><br><br>
+                    <span>Sõnum: </span><br><br>
+                </div>
+                <form action="mailto:johnny.depp@gmail.com"
+                method="POST"
+                name="EmailForm"
+                enctype="text/plain"
+                class="formtext">
+                    <input type="text" name="Name"><br>
+                    <input type="email" name="Email"><br>
+                    <textarea name="Message" rows="6"></textarea><br>
+                    <button type="submit" value="Submit" class="sendbutton">Saada</button>
+                </form>
+            </div>
+            <div class="contactbuttons">
+                <a href="mailto:johnny.depp@gmail.com" class="emailbutton"><img src="images/at.png" alt="Email"></a>
+                <a href="tel:+37213371337"><img src="images/phone.png" alt="phone"></a>
+                <a href="https://www.instagram.com/johnnydepp/"><img src="images/instagram.png" alt=""></a>
+            </div>
         </section>
     </main>
     <footer>

@@ -1,0 +1,37 @@
+.contact {
+    margin: 0 auto;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.formtext {
+    display: flex;
+    flex-direction: column;
+    margin-left: 16px;
+    max-width: 300px;
+    width: 100%;
+}
+
+.sendbutton {
+    align-self: flex-end;
+}
+
+.formtext input, textarea, button {
+    background-color: #727C8C;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contactbuttons {
+    padding-top: 200px;
+}
+
+.contactbuttons img {
+    padding: 0 12px;
+    width: 46px;
+}

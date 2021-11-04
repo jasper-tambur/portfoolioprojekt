@@ -1,6 +1,7 @@
 @import "styles/navbar.css";
 @import "styles/main.css";
 @import "styles/media.css";
+@import "styles/contact.css";
 
 * {
     margin: 0;
@@ -9,6 +10,6 @@
 body {
     background-color: #010204;
     color: #ffffff;
-    font-family: 'Rokkitt', serif;
+    font-family: 'Roboto', sans-serif;
     width: 100%;
 }
