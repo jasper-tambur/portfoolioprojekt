@@ -27,6 +27,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.formtext button {
+    height: 30px;
+    width: 60px;
+}
+
 .contactbuttons {
     padding-top: 200px;
 }
