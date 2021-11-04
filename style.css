@@ -2,6 +2,8 @@
 @import "styles/main.css";
 @import "styles/media.css";
 @import "styles/about.css";
+@import "styles/achievements.css";
+@import "styles/contact.css";
 * {
     margin: 0;
     padding: 0;
@@ -12,4 +14,10 @@ body {
     color: #ffffff;
     font-family: 'Roboto', sans-serif;
     width: 100%;
+}
+h2 {
+    font-size: 2em;
+}
+p {
+    font-size: 1em;
 }
