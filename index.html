@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <title>Johnny Depp portfolio page</title>
+    <script src="scripts/slideshow.js"></script>
 </head>
 <body>
     <header>
@@ -40,7 +41,9 @@
         </section>
         <section id="introduction" class="main_about">
             <h2>Tutvustus</h2>
-            <ul>
+            <div>
+                <div>
+                   <ul>
                 <li>Sünninimi: </li>
                 <li>Sünniaeg: </li>
                 <li>Sünnikoht: </li>
@@ -60,7 +63,11 @@
                 proovima narkootikume ja tegelema enesevigastamisega
                 pere probleemide pärast.
                 Aastal 1978, kui Depp oli 15, ta vanemad lahutasid.
-            </p>
+            </p> 
+                </div>
+                <div>
+
+                </div>
             <p>
                 Nightmare on Elm Street oli esimene film kuhu ta sai korraliku rolli.
                 Ta hakkas tõsiselt õppima näitlemist,
@@ -69,18 +76,49 @@
                 võtta vastu tumedamaid rolle eri filmides nagu Edward Scissorhands (1990),
                 Sleepy Hollow (1999) ja Alice in Wonderland (2010),
                 kui ka tema suure rollina Pirates of the Caribbean movies.
-            </p>
+            </p>  
+            </div>
+            
         </section>
         <section id="achievements"class="main_">
             <h2>Saavutused</h2>
-            <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
+                <div class="main_achievements">
+                    <ul class="achievementContainer">
+                        <li class="mySlides fade">
+                            <img class="slideimg" src="images/s1.jpeg" alt="Pilt kariibimiere piraatidest">
+                            <div class="slidetext">Kariibimere piraadid</div>
+                        </li>
+                        <li class="mySlides fade">
+                            <img class="slideimg" src="images/s2.jpeg" alt="Pilt kariibimiere piraatidest">
+                            <div class="slidetext">A nightmare on Elm Street</div>
+                        </li>
+                        <li class="mySlides fade">
+                            <img class="slideimg" src="images/s3.jpeg" alt="Pilt kariibimiere piraatidest">
+                            <div class="slidetext">Murder on the Orient Express</div>
+                        </li>
+                        <li class="mySlides fade">
+                            <img class="slideimg" src="images/s4.jpeg" width="100%"alt="Pilt kariibimiere piraatidest">
+                            <div class="slidetext">Fantastic Beasts and Where to Find Them</div>
+                        </li>
+                        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                    </ul>
+                    <div style="text-align:center">
+                        <span class="dot" onclick="currentSlide(1)"></span>
+                        <span class="dot" onclick="currentSlide(2)"></span>
+                        <span class="dot" onclick="currentSlide(3)"></span>
+                        <span class="dot" onclick="currentSlide(4)"></span>
+                    </div> 
+                </div>
+                <div class="slidep">
+                    <p class="slideParagraph">
+                    Film tuli välja aastal 2003 ja on ilmselt kõige tuntuim film kus Johnny Depp starib. 
+                    Produtseeritud Jerry Bruckheimer poolt, Kariibi mere piraadid on baseeritud Walt Disney seikluspargi sõidu pealt,
+                    millel on sama nimi filmiga. Lugu jälgib Jack Sparrowt ja Will Turnerit oma ülesandel leida Elizabeth Swann, 
+                    kes on Will-i elu arm ja kuberneri tütar. Ta rööviti ära hirmsa Captin Barbossa poolt, kes koos oma meeskonnaga 
+                    on ära neetud, et mitte elada aga et mitte ka surra. Aga nad saavad needust murda kui neil on vere ohverdus.
+                    </p>
+                </div>
         </section>
         <section id="contact" class="contact">
             <h2>Kontakt</h2>
