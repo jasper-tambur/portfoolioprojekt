@@ -2,3 +2,22 @@
   position: relative;
   color: white;
 }
+
+.main section:not(.main_home) {
+    display: flex;
+    flex-direction: column;
+    margin: 24px;
+}
+
+.main h2 {
+    align-self: center;
+    padding-bottom: 24px;
+}
+
+.main_about p {
+    padding: 16px 0;
+}
+
+.main li {
+    margin-left: 6px;
+}
