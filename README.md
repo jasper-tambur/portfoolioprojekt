@@ -29,9 +29,9 @@ Tiimi liikmed
 ##### - Mida tegi:Tutvustus
 
 #### TAK-21 Lisbeth Raielo
-##### - Pehme oskus:
-##### - Kõva oskus:
-##### - Mida tegi: Saavutused
+##### - Pehme oskus: Suhtlus
+##### - Kõva oskus: HTML, CSS
+##### - Mida tegi: Sisu looja, pildi muutmine taustaks, smooth scroll
 
 #### TAK-21 Timo Loho
 ##### - Pehme oskus: Julgus teistega rohkem rääkida
