@@ -1,3 +1,4 @@
+
 @import "styles/navbar.css";
 @import "styles/main.css";
 @import "styles/media.css";
@@ -21,7 +22,6 @@ h2 {
 p {
     font-size: 1em;
 }
-
 .button{
     width: 100px;
     height: 100px;
@@ -41,3 +41,6 @@ a{
 html{
     scroll-behavior: smooth;
 }
+.big_class {
+    margin-bottom: 8rem !important;
+  }
