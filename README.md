@@ -14,9 +14,9 @@ Tiimi liikmed
 ##### - Mida tegi: Juhendasin ja abistasin koodiga
 
 #### TA-20 Terje Volke
-##### - Pehme oskus:
-##### - Kõva oskus:
-##### - Mida tegi:
+##### - Pehme oskus: demokraatliku ja autokraatliku juhtimisstiili kombineerimine
+##### - Kõva oskus: jäi seekord omandamata
+##### - Mida tegi: projektijuht, scrum-master
 
 #### TA-21 Oliver Õunaid
 ##### - Pehme oskus: Suhtlus
