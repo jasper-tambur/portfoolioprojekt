@@ -24,7 +24,7 @@ Tiimi liikmed
 ##### - Mida tegi: slideshow
 
 #### TA-21 Kätlin Maidle
-##### - ehme oskus:Julgus rohkem küsida, suhtlus
+##### - Pehme oskus:Julgus rohkem küsida, suhtlus
 ##### - Kõva oskus:FIGMA ja veidi HTML,CSS
 ##### - Mida tegi:Tutvustus
 
@@ -34,9 +34,9 @@ Tiimi liikmed
 ##### - Mida tegi: Saavutused
 
 #### TAK-21 Timo Loho
-##### - Pehme oskus:
+##### - Pehme oskus: Julgus teistega rohkem rääkida
 ##### - Kõva oskus: Auto save
-##### - Mida tegi: Nuppe
+##### - Mida tegi: Nuppe, burger menu, HTML, CSS
 
 #### TAK-20 Rihard Pärgma
 ##### - Pehme oskus: Kiire õppimisvõime
