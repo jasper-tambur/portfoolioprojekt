@@ -4,7 +4,7 @@ portfoolioprojekt
 Tiimi liikmed
 -------------
 TAK-19 Kris Kristofer Burk
-*Pehme oskus: 
+ *Pehme oskus: 
 *Kõva oskus: 
 *Mida tegi:
 
