@@ -2,7 +2,10 @@
   position: relative;
   color: white;
 }
-
+.home_img {
+    max-width: 100%;
+    height: auto;
+  }
 .main section:not(.main_home) {
     display: flex;
     flex-direction: column;

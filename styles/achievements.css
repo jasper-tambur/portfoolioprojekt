@@ -36,7 +36,7 @@
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-background-color: rgba(0,0,0,0.8);
+background-color: rgba(168, 163, 163, 0.2);
 }
 
 /* Caption text */
@@ -85,5 +85,12 @@ background-color: rgba(0,0,0,0.8);
 
 /* Paragraph styling*/
 .slidep {
+    padding: 1em;
     max-width: 1200px;
+    font-size: 1em;
+}
+@media only screen and (min-width: 651px) {
+    .mySlides > p {
+        font-size: 1.5em;
+    }
 }
