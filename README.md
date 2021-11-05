@@ -4,9 +4,9 @@ portfoolioprojekt
 Tiimi liikmed
 -------------
 #### TAK-19 Kris Kristofer Burk
-##### - Pehme oskus:
-##### - Kõva oskus:
-##### - Mida tegi:
+##### - Pehme oskus: suhtlus
+##### - Kõva oskus:Zone, HTML, CSS
+##### - Mida tegi:Seadsin üles zone serveri
 
 #### TAK-19 Jasper Tambur
 ##### - Pehme oskus: Suhtlus
