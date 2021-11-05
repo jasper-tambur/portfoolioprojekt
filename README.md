@@ -64,3 +64,6 @@ https://www.figma.com/file/6o8WRpxdepAANAXzUefgtb/Depp?node-id=3%3A2
 
 # Wireframe
 https://drive.google.com/file/d/17mU_t2aQgdcsr7kr55J2Q2aW1VtoSE0v/view?usp=sharing
+
+# Live link
+https://tak19burk.itmajakas.ee/portfoolioprojekt-master/#home
