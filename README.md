@@ -24,9 +24,9 @@ Tiimi liikmed
 ##### - Mida tegi: slideshow
 
 #### TA-21 Kätlin Maidle
-##### - ehme oskus:
-##### - Kõva oskus:
-##### - Mida tegi:
+##### - ehme oskus:Julgus rohkem küsida, suhtlus
+##### - Kõva oskus:FIGMA ja veidi HTML,CSS
+##### - Mida tegi:Tutvustus
 
 #### TAK-21 Lisbeth Raielo
 ##### - Pehme oskus:
