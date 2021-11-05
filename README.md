@@ -19,9 +19,9 @@ Tiimi liikmed
 ##### - Mida tegi:
 
 #### TA-21 Oliver Õunaid
-##### - Pehme oskus:
-##### - Kõva oskus:
-##### - Mida tegi:
+##### - Pehme oskus: Suhtlus
+##### - Kõva oskus: HTML,CSS,GIT
+##### - Mida tegi: slideshow
 
 #### TA-21 Kätlin Maidle
 ##### - ehme oskus:
