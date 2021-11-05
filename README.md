@@ -4,44 +4,44 @@ portfoolioprojekt
 Tiimi liikmed
 -------------
 TAK-19 Kris Kristofer Burk
-*Pehme oskus: 
-*Kõva oskus: 
+*Pehme oskus:
+*Kõva oskus:
 *Mida tegi:
 
 TAK-19 Jasper Tambur
-*Pehme oskus: 
-*Kõva oskus: 
+*Pehme oskus:
+*Kõva oskus:
 *Mida tegi:
 
 TA-20 Terje Volke
-*Pehme oskus: 
-*Kõva oskus: 
+*Pehme oskus:
+*Kõva oskus:
 *Mida tegi:
 
 TA-21 Oliver Õunaid
-*Pehme oskus: 
-*Kõva oskus: 
+*Pehme oskus:
+*Kõva oskus:
 *Mida tegi:
 
-TA-21 Kätlin Maidle 
-*Pehme oskus: 
-*Kõva oskus: 
+TA-21 Kätlin Maidle
+*Pehme oskus:
+*Kõva oskus:
 *Mida tegi:
 
 TAK-21 Lisbeth Raielo
-*Pehme oskus: 
-*Kõva oskus: 
+*Pehme oskus:
+*Kõva oskus:
 *Mida tegi: Saavutused
 
 TAK-21 Timo Loho
-*Pehme oskus: 
+*Pehme oskus:
 *Kõva oskus: Auto save
 *Mida tegi: Nuppe
 
 TAK-20 Rihard Pärgma
-*Pehme oskus: 
-*Kõva oskus: 
-*Mida tegi:
+*Pehme oskus: Kiire õppimisvõime
+*Kõva oskus: HTML/CSS
+*Mida tegi: Kontakt
 
 # Ülesanne: one-pager Johnny Deppi kohta, kus oleks vähemalt alljärgnevad alampunktid:
 Esileht
@@ -61,6 +61,3 @@ kõik nooremad otsivad Johnny Deppi kohta kaks sündmust-filmi
 
 # Figma
 https://www.figma.com/file/6o8WRpxdepAANAXzUefgtb/Depp?node-id=3%3A2
-
-
-
