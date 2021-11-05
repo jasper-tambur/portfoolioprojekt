@@ -1,8 +1,14 @@
 .main_about{
     text-align: left;
 }
-
-
+.introduction_text{
+    display: flex;
+    
+    flex-direction: column;
+}
+.introduction_text > p{
+    align-self: center;
+}
 
 
 

@@ -161,10 +161,7 @@
     bottom: 22px;
     right: 46px;
   }
-  .introduction_text{
-    display: flex;
-    flex-direction: column;
-  }
+  
  
 }
 /*desktop*/
