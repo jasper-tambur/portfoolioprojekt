@@ -9,9 +9,9 @@ Tiimi liikmed
 ##### - Mida tegi:
 
 #### TAK-19 Jasper Tambur
-##### - Pehme oskus:
-##### - Kõva oskus:
-##### - Mida tegi:
+##### - Pehme oskus: Suhtlus
+##### - Kõva oskus: HTML, CSS, GitHub
+##### - Mida tegi: Juhendasin ja abistasin koodiga
 
 #### TA-20 Terje Volke
 ##### - Pehme oskus:
