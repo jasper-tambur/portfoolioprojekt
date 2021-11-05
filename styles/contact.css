@@ -9,10 +9,15 @@
     width: 100%;
 }
 
+.form p {
+    line-height: 2.5em;
+    text-align: end;
+}
+
 .formtext {
     display: flex;
     flex-direction: column;
-    margin-left: 16px;
+    margin-left: 1em;
     max-width: 300px;
     width: 100%;
 }
@@ -22,14 +27,18 @@
 }
 
 .formtext input, textarea, button {
+    margin: 0.75em 0;
     background-color: #727C8C;
     color: white;
     font-family: 'Roboto', sans-serif;
+    border-radius: 0.6em;
 }
 
 .formtext button {
-    height: 30px;
-    width: 60px;
+    font-size: 2em;
+    width: 4em;
+    height: 2em;
+    background-color: blue;
 }
 
 .contactbuttons {
@@ -37,6 +46,6 @@
 }
 
 .contactbuttons img {
-    padding: 0 12px;
-    width: 46px;
+    padding: 0 0.1em;
+    width: 1.5em;
 }
